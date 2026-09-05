@@ -1,3 +1,4 @@
+# Week 08 CI/CD demonstration
 import logging
 import os
 import time
